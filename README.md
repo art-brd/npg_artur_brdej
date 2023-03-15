@@ -1,1 +1,1 @@
-# To jest zmieniony naglowek README, ale inaczej 
+# To jest zmieniony naglowek README, ale inaczej
